@@ -2,7 +2,7 @@
 
 **Track:** Agents for Good (Education)
 
-An intelligent multi-agent system that helps job seekers navigate every stage of their career journey—from resume optimization to salary negotiation.
+An intelligent multi-agent system that helps job seekers navigate every stage of their career journey from resume optimization to salary negotiation.
 
 ---
 
